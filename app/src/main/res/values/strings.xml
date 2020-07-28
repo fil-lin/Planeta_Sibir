@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Планета Сибирь</string>
+    <string name="akts">Акции</string>
+    <string name="cart">Карта</string>
+    <string name="menu">Меню</string>
+    <string name="magas">Магазины</string>
+    <string name="kabina">Профиль</string>
+</resources>

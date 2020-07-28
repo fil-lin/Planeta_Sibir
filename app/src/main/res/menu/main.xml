@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/akc"
+        android:icon="@drawable/akc"
+        android:title="@string/akts">
+    </item>
+    <item
+        android:id="@+id/card"
+        android:icon="@drawable/cardmenu"
+        android:title="@string/cart">
+    </item>
+    <item
+        android:id="@+id/ment"
+        android:icon="@drawable/shishka"
+        android:title="@string/menu">
+    </item>
+    <item
+        android:id="@+id/magaz"
+        android:icon="@drawable/locat"
+        android:title="@string/magas">
+
+    </item>
+    <item
+        android:id="@+id/lichcab"
+        android:icon="@drawable/prof"
+        android:title="@string/kabina">
+    </item>
+</menu>
